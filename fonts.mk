@@ -19,4 +19,5 @@
 PRODUCT_PACKAGES := \
     Lohit-Bengali.ttf \
     Lohit-Kannada.ttf \
-    Lohit-Telugu.ttf
+    Lohit-Telugu.ttf \
+    Lohit-Gujarati.ttf
